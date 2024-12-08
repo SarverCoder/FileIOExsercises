@@ -42,7 +42,7 @@ namespace FileIOExsercises
 
                     }
                 }
-                Console.WriteLine($"So'z '{findWord}' {count} marta uchradi.");
+                Console.WriteLine($"So'z '{findWord}' {count}  marta uchradi. va qatnashdi");
             }
             catch (Exception ex)
             {
